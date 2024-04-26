@@ -1,0 +1,46 @@
+{
+  "name": "bayer-matrices",
+  "displayName": "Bayer Matrices for Dithering Ver1.1",
+  "description": "Dithering matrices created by Ddk.TimenDoor",
+  "version": "1.1",
+  "publisher": "aseprite",
+  "contributes": {
+    "ditheringMatrices": [
+      {
+        "id": "horizen4x4",
+        "name": "horizen 4x4",
+        "path": "./horizen4x4.bmp"
+      },
+      {
+        "id": "horizen8x8",
+        "name": "horizen 8x8",
+        "path": "./horizen8x8.bmp"
+      },
+      {
+        "id": "vertical4x4",
+        "name": "vertical 4x4",
+        "path": "./vertical4x4.bmp"
+      },
+      {
+        "id": "diagonal4x4",
+        "name": "diagonal 4x4",
+        "path": "./diagonal4x4.bmp"
+      },
+      {
+        "id": "chequered",
+        "name": "chequered",
+        "path": "./chequered.bmp"
+      },
+      {
+        "id": "Thailand",
+        "name": "Thailand",
+        "path": "./Thailand.bmp"
+      },
+      {
+        "id": "gradient8x8",
+        "name": "gradient 8x8",
+        "path": "./gradient8x8.bmp"
+      }
+    ]
+  }
+}
